@@ -253,19 +253,16 @@ Whatever your interests or strengths, we hope you will find a place where you ca
 
 ## Community Roles
 
-Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write
+Select one role from the list below that interests you. Using the the descriptions on [The Carpentries community website][community-page], write 1) a short definition of the role, and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you would like to see that are not listed? Note that, too!
 
-1) a short definition of the role and 2) a question that you have (or that you imagine someone else might have) about the role. Are there roles you
-  would like to see that are not listed? Note that, too!
-
-1. Executive Council
-2. Mentors
-3. Instructor Trainers
-4. Lesson Developers
-5. Code of Conduct Committee
-6. Instructor Development Committee
-7. Community Facilitators
-8. Maintainers
+- Executive Council
+- Mentors
+- Instructor Trainers
+- Lesson Developers
+- Code of Conduct Committee
+- Instructor Development Committee
+- Community Facilitators
+- Maintainers
 
 This exercise should take about 5 minutes.
 
@@ -295,8 +292,8 @@ Want to **join meetings** (to meet new people or listen in)?
 
 ## Get Connected
 
-Take a couple of minutes to sign up for The Carpentries channels you want to stay involved with on this page:
-[https://carpentries.org/connect/][connect-page]
+Take a couple of minutes to sign up for The Carpentries channels you want to stay involved with on the
+[Connecting with The Carpentries page][connect-page]. 
 When you are done, share a channel you find interesting or useful on the Etherpad.
 
 This exercise should take about 5 minutes.

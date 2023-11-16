@@ -23,7 +23,7 @@ Just as in our technical workshops, we collect feedback at the end of Instructor
 This will help your Trainers continue to develop *their* skills and to participate in continually improving our curriculum. The Carpentries Surveys also
 provide vital information to The Carpentries Core Team and help us to report to our funders.
 
-## One Up, One Down
+#### One Up, One Down
 
 Provide one up, one down feedback on the entire Instructor Training course. Remember:
 
